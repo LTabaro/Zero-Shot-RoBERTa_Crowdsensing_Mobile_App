@@ -10,7 +10,7 @@ The specific objectives for this project are:
 * Design a three-tier architecture, namely: the data management and processing layer (MongoDB/MySQL and PyTorch), the service layer (NodeJS/Express; Firebase) and the presentation layer (Flutter).
 * Establish all the necessary tools and dependencies for the frontend and backend.
 * Build Front-End and Back-End Applications.
-* Implement natural language processing algorithms (Natural Language Processing) to interpret the collected data.
+* Implement Natural Language Processing algorithm to interpret the collected data.
 * Develop methodologies for protecting the computer system and applications developed.
 * Test and validate the system and the deployment of information.
 
